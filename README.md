@@ -62,4 +62,3 @@ Download this repository. Then, on the MATLAB command window:
 	run main
 		
 Questions? Bugs? Email me at aparna.venkit@gmail.com
-# Multimodal-Domain-Adaptation
